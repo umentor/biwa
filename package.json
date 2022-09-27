@@ -1,0 +1,33 @@
+{
+  "name": "biwa",
+  "version": "1.0.0",
+  "description": "Biwa: Kerangka Kerja Web Javascript Sederhana",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andae/biwa.git"
+  },
+  "bin": {
+    "biwa": "./biwa-cli.js"
+  },
+  "keywords": [
+    "simple",
+    "javascripts",
+    "framework",
+    "website",
+    "biwa"
+  ],
+  "author": {
+    "name": "Juli Anda",
+    "email": "julianda.dr@gmail.com",
+    "url": "https://julianda.me"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andae/biwa/issues"
+  },
+  "homepage": "https://github.com/andae/biwa#readme",
+  "dependencies": {
+    "replace-in-file": "^6.3.2",
+    "yargs": "^17.3.1"
+  }
+}
