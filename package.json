@@ -4,7 +4,7 @@
   "description": "Biwa: Kerangka Kerja Web Javascript Sederhana",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andae/biwa.git"
+    "url": "git+https://github.com/umentor/biwa.git"
   },
   "bin": {
     "biwa": "./biwa-cli.js"
@@ -19,13 +19,13 @@
   "author": {
     "name": "Juli Anda",
     "email": "julianda.dr@gmail.com",
-    "url": "https://julianda.me"
+    "url": "https://about.me/julianda"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andae/biwa/issues"
+    "url": "https://github.com/umentor/biwa/issues"
   },
-  "homepage": "https://github.com/andae/biwa#readme",
+  "homepage": "https://github.com/umentor/biwa#readme",
   "dependencies": {
     "replace-in-file": "^6.3.2",
     "yargs": "^17.3.1"
